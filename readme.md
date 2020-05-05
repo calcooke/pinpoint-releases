@@ -1,1 +1,1 @@
-read me
+View releases under releases tab
